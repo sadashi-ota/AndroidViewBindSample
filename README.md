@@ -17,7 +17,7 @@ This project is view binding sample application.
 
 # Qiita
 
-[最近のView Binding 事情][1]
+[Android View Bind Library 比較][1]
 
 # License
 
@@ -37,4 +37,4 @@ See the License for the specific language governing permissions and
 limitations under the License.
 ```
 
-[1]:https://qiita.com/sadashi/items/346a76d1565f2e82116c
+[1]:https://qiita.com/sadashi/items/951396b792ada4e2a771
